@@ -94,8 +94,6 @@ The Z-axis is responsible for moving the print head up and down along the vertic
 
 ![WhatsApp Image 2023-11-15 at 15 57 38_e4068dc6](https://github.com/SANTHAN-2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/80164014/f5ad6ac0-8139-49fc-b910-7db4c0878c7b)
 
-### Name: KARNALA SANTHAN KUMAR
-### Register Number: 23004568
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
